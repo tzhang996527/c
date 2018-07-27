@@ -19,4 +19,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="names_st.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="useheader.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="predef.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qsort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="assert.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mems.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="varargs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

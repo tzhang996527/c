@@ -117,6 +117,15 @@
   <ItemGroup>
     <ClInclude Include="names_st.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="assert.c" />
+    <ClCompile Include="mems.c" />
+    <ClCompile Include="names_st.c" />
+    <ClCompile Include="predef.c" />
+    <ClCompile Include="qsort.c" />
+    <ClCompile Include="useheader.c" />
+    <ClCompile Include="varargs.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
